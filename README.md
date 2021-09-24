@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jonathan
 
-- 🔭 I am a Software Engineer @ [Midway](https://www.midway.com.br/)
+- 🔭 I am a Software Engineer @ TBD
 - 🌱 I work with Nodejs and other tools around the Javascript ecosystem
 - ⚡ 3 facts about me: 
   - I'm always learning new things
