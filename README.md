@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jonathan
 
-- 🔭 I am a Software Engineer @ TBD
-- 🌱 I work with Nodejs and other tools around the Javascript ecosystem
+- 🔭 I am a Software Engineer @ Voltz Motors.
+- 🌱 I'm learning a lot about many topics at the moment :) 
 - ⚡ 3 facts about me: 
   - I'm always learning new things
   - Doing tech/programming stuffs and see them working all together really motivates me
