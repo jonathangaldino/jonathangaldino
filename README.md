@@ -1,11 +1,12 @@
 # Hi there 👋 I'm Jonathan
 
 - 🔭 I am a Software Engineer @ Voltz Motors.
-- 🌱 I'm learning a lot about many topics at the moment :) 
+- 🌱 Currently learning about Software Architectures and System Design.
 - ⚡ 3 facts about me: 
-  - I'm always learning new things
-  - Doing tech/programming stuffs and see them working all together really motivates me
+  - I like learning new things
+  - Doing tech/programming stuffs and see them solving problems really motivates me
   - I work mostly in the backend, but I know how to handle things in the mobile and frontend as well 
+
 
 ## :rocket: Skills & Tech
 
@@ -32,7 +33,7 @@
 
 **DevOps**  
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Azure](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=AzureDevOps)
   
 
