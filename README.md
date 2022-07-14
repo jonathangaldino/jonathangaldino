@@ -1,6 +1,6 @@
 # Jonathan Galdino — @jonathangaldino
 
-👋 Hi! I'm Jonathan — a software engineer at Voltz Motors ⚡ working on improving the experience of the customer on the e-commerce. I've worked on projects that impacted the lives of thousand of people. I'm a huge PC games nerd, and I also like :jp: cars (F&F is my favourite franchise).
+👋 Hi! I'm Jonathan — a software engineer at Voltz Motors ⚡ working on improving the experience of the customer on the e-commerce. I've worked on projects that impacted the lives of thousand of people. I'm a huge PC games nerd, fan of the JDM cars culture, and apprentice investor.
 
 ## Core values
 :green_apple: Beginner's mindset and curiosity.  
@@ -10,11 +10,12 @@
 
 ## Goals for 2022
 
-For this year, I want to improve my abilities in terms of software design, and my communication skills.
+For this year, I want to improve my abilities in terms of software design, and my communication skills. Everything on this section is aligned with my major goal: to be **financially free** :money_with_wings:
 
 - [x] Fully read a book
-- [ ] Improve my communication skills (writing and speaking)
+- [ ] Improve my communication skills
 - [ ] Improve my English proficiency
+- [ ] Design and launch a tool to help beginner investors automatize their lives in some way
 
 <details>
   <summary><b>:books: Me & books — the history</b></summary>
@@ -32,28 +33,22 @@ For this year, I want to improve my abilities in terms of software design, and m
 </details>
 
 
-## :rocket: Tech
+## :hammer: Tech
 
 I'm always in touch with several programming language, technologies, tools and libraries. 
 Here's a few of them I've been working with on daily basis.
 
-- Ruby
-- Ruby on Rails
-- Rspec
-- Heroku
-- Docker
-- Terraform
-- Redis
-- Postgres
+- Ruby / Ruby on Rails / RSpec
+- Heroku / AWS
+- Docker / Terraform / DevOps
+- Postgres / Redis 
 
 But I also like to use these whenever I have the chance.
 
-- Node.js
+- Node.js / React.js
 - Typescript
-- React.js
-- React Native
-- Flutter
-- Go
+- React Native / Flutter
+- Golang
 
 ## Get in touch
 
