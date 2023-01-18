@@ -1,6 +1,15 @@
 # Jonathan Galdino — @jonathangaldino
 
-👋 Hi! I'm Jonathan — a software engineer at Voltz Motors ⚡ working on improving the experience of the customer on the e-commerce. I've worked on projects that impacted the lives of thousand of people. I'm a huge PC games nerd, fan of the JDM cars culture, and apprentice investor.
+👋 Hi! I'm Jonathan — a software engineer at Voltz Motors ⚡ working on improving the experience of the customer on the e-commerce.
+
+## About me
+
+I worked on various projects and with a variety of technologies. I'm flexibe enought to adapt to any environment, and together with my problem-solver thought, I can be a good fit for any team.
+
+I have a bachelor's degree in Computer Science. I'm my first year of college (2016), I was already working for a group of companies in Brazil and the United States, which shows my dedication and interest in becoming a different software engineer.
+
+I consider myself always an apprentice. I aim to teach you whatever I know and I also want to learn from you.
+
 
 ## Core values
 :green_apple: Beginner's mindset and curiosity.  
@@ -8,41 +17,22 @@
 :small_red_triangle_down: I dig deep. I don't like shallow knowledge  
 :100: I'm intense. Go hard or go home.  
 
-## Goals for 2022
-
-For this year, I want to improve my abilities in terms of software design, and my communication skills. Everything on this section is aligned with my major goal: to be **financially free** :money_with_wings:
-
-- [x] Fully read a book
-- [-] Improve my communication skills
-- [-] Improve my English proficiency
-- [ ] Design and launch a tool to help beginner investors automatize their lives in some way
-
-### Looking back to 2022
-
-I think improving my communication and english proficiency are both fluid goals. This means, they are not easily measurable, so I will put them in the corner and work on them through the years.
-However, I failed on my last goal. Truth be told, I don't have any clue on how to do this.
-
-## Goals for 2023
-
-Work in progress.
-
-
 ## :hammer: Techs
 
-I'm always in touch with several programming language, technologies, tools and libraries. 
-Here's a few of them I've been working with on daily basis.
+At Voltz, we use this techs:
 
 - Ruby / Ruby on Rails / RSpec
 - Heroku / AWS
 - Docker / Terraform / DevOps
 - Postgres / Redis 
 
-But I also like to use these whenever I have the chance.
+In my previous experiences, I focused mainly in:
 
-- Node.js / React.js
-- Typescript
-- React Native / Flutter
-- Golang
+- Node.js / Javascript / Typescript / Jest
+- React.js / Next.js / TailwindCSS / Material UI / Styled Components
+- PostgreSQL / MySQL / Redis / AWS Dynamodb
+- Docker
+- GitHub Actions (CI - CD)
 
 ## Get in touch
 
