@@ -1,43 +1,49 @@
 # Jonathan Galdino — @jonathangaldino
 
-👋 Hi! I'm Jonathan — a software engineer at Voltz Motors ⚡ working on improving the experience of the customer on the e-commerce.
-
 ## About me
 
-I worked on various projects and with a variety of technologies. I'm flexibe enought to adapt to any environment, and together with my problem-solver thought, I can be a good fit for any team.
 
-I have a bachelor's degree in Computer Science. I'm my first year of college (2016), I was already working for a group of companies in Brazil and the United States, which shows my dedication and interest in becoming a different software engineer.
+👋 Hi! I'm Jonathan —  a senior software engineer from :brazil: ⚡ with more than 5 years of experience in web-development. 
 
 I consider myself always an apprentice. I aim to teach you whatever I know and I also want to learn from you.
+Together with my problem-solver skills, I want to contribute to the development of the product before even thinking about coding. **The devil is in the details, right?**
 
+With a broad experience, working on different projects with a variety of technologies, I like to think I'm flexible enought to adapt, and I can be a fit for a diverse team without a problem.
 
-## Core values
+I have a Bacherlor's degree in Computer Science from the Universidade Tecnológica Federal do Paraná (UTFPR) — Santa Helena campus.
+
+## Soft Skills
 :green_apple: Beginner's mindset and curiosity.  
 :dancers: Strong collaborative skills.  
 :small_red_triangle_down: I dig deep. I don't like shallow knowledge  
 :100: I'm intense. Go hard or go home.  
 
-## :hammer: Techs
+## :hammer: Hard Skills (a.k.a techs)
 
-At Voltz, we use this techs:
+This is the stack I'm using at the moment. I like what it can bring to the table.
 
-- Ruby / Ruby on Rails / RSpec
-- Heroku / AWS
-- Docker / Terraform / DevOps
-- Postgres / Redis 
+- Node.js | Express.js | Javascript | Typescript
+- Postgres | AWS DynamoDB | MongoDB | Supabase | Redis
+- React.js | Next.js | Learning Remix
+- TailwindCSS | Material UI | Styled Components
+- Docker | Docker Compose
+- AWS (S3, RDS, DynamoDB, SQS, SNS, Lambda, EC2, API Gateway
+- Github Actions for some Devops/CI/CD
+- Testing with Jest, React Testing Library, MSW (integration tests), and Playwright for e2e tests
 
-In my previous experiences, I focused mainly in:
+## Learning
 
-- Node.js / Javascript / Typescript / Jest
-- React.js / Next.js / TailwindCSS / Material UI / Styled Components
-- PostgreSQL / MySQL / Redis / AWS Dynamodb
-- Docker
-- GitHub Actions (CI - CD)
+I'm always learning something useful.
+Nowadays, I'm investing some time on learning:
+
+- Terraform (AWS)
+- Supabase
+- Remix Framework
+- Playwright
 
 ## Get in touch
 
 Wanna grab a :coffee:?
 
-- I'm always online on [Twitter](https://twitter.com/johnhashed)
 - Here is my [LinkedIn](https://www.linkedin.com/in/jonathangaldinodev/)
 
