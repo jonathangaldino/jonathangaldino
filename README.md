@@ -54,6 +54,8 @@ I’m currently learning **Terraform, E2E Testing (Cypress/Cucumber) & Remix**
 I regularly write articles on [https://blog.galdino.dev/](https://blog.galdino.dev/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Web App to AWS and exposing it to the Internet](https://blog.galdino.dev/deploying-a-web-app-to-aws-and-exposing-it-to-the-internet-clg77no2o000709mr3ph06y43)
+- [Making integration tests easier with MSW](https://blog.galdino.dev/making-integration-tests-easier-with-msw-clfkhu5d8000209k30p392peu)
 <!-- BLOG-POST-LIST:END -->
 
 
