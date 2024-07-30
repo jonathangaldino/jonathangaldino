@@ -46,19 +46,7 @@ This is the stack I'm using at the moment. I like what it can bring to the table
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathangaldino&show_icons=true&locale=en&layout=compact" alt="jonathangaldino" /></p>
 
 
-I’m currently learning **Terraform, E2E Testing (Cypress/Cucumber) & Remix**
-
-
-### Blogs posts
-
-I regularly write articles on [https://blog.galdino.dev/](https://blog.galdino.dev/)
-
-<!-- BLOG-POST-LIST:START -->
-- [What about round-robin queues with RabbitMQ?](https://blog.galdino.dev/what-about-round-robin-queues-with-rabbitmq-clnxb6qu7000008mq76sthb5q)
-- [Authentication Guard in NestJS with AWS Cognito](https://blog.galdino.dev/authentication-guard-in-nestjs-with-aws-cognito-clnqrpn7q000009lc701whzlx)
-- [The basics of integrating your backend with AWS Cognito](https://blog.galdino.dev/the-basics-of-integrating-your-backend-with-aws-cognito-clnm9sx4z000409lbb4rvbmcc)
-- [Deploying a Web App to AWS and exposing it to the Internet](https://blog.galdino.dev/deploying-a-web-app-to-aws-and-exposing-it-to-the-internet-clg77no2o000709mr3ph06y43)
-<!-- BLOG-POST-LIST:END -->
+I’m currently learning **Golang**.
 
 
 
