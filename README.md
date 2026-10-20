@@ -51,5 +51,5 @@ I like owning features from planning to post-deployment — product-minded, prag
 - 🏗️ Building and self-hosting apps at MUGEN Software
 - 🎓 Post-graduating in **Applied AI for Software Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathangaldinodev)
 [![Email](https://img.shields.io/badge/Email-jonathan@mugensoftware.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:jonathan@mugensoftware.com)
